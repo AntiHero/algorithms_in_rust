@@ -10,3 +10,7 @@ edition = "2021"
 [[bin]]
 name = "gcd"
 path = "gcd.rs"
+
+[[bin]]
+name = "insertion-sort"
+path = "insertion-sort.rs"
